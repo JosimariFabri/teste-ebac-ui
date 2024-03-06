@@ -1,0 +1,22 @@
+[
+    {
+        "nomeProduto": "Argus All-Weather Tank",
+        "tamanho": "XS",
+        "cor": "Gray",
+        "quantidade": 3  
+    },
+
+    {
+        "nomeProduto": "Ariel Roll Sleeve Sweatshirt",
+        "tamanho": "M",
+        "cor": "Purple",
+        "quantidade": 1  
+    },
+    
+    {
+        "nomeProduto": "Atomic Endurance Running Tee (Crew-Neck)",
+        "tamanho": "XL",
+        "cor": "Black",
+        "quantidade": 5  
+    }
+]
